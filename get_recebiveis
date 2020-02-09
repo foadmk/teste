@@ -1,0 +1,20 @@
+[
+{
+"id_recebivel": 11,
+"plano_saude": "Unimed",
+"protocolo_envio_plano_saude": "ABCDE123454",
+"data_envio_plano_saude": "2020-01-15",
+"data_prevista_recebimento": "2020-03-15",
+"valor_bruto": 18000.00,
+"valor_liquido": 16000.00
+},
+{
+"id_recebivel": 13,
+"plano_saude": "Agemed",
+"protocolo_envio_plano_saude": "ABCDE12345",
+"data_envio_plano_saude": "2020-01-25",
+"data_prevista_recebimento": "2020-04-25",
+"valor_bruto": 16000.00,
+"valor_liquido": 13000.00
+}
+]
